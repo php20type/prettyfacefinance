@@ -1,0 +1,14 @@
+- Services will need an ability to be re-ordered (etc, 1ml 3ml, 2ml)
+- Broken password reset link
+- Unstyled password reset page
+- Clinic request form validation, non-existent
+- Mini calculator styling (specifically price input)
+- Basket page styling
+- Clinic listing page needs the map zooming out
+- Contact us page is missing
+- Mini calculator complete button sends to home page, no post route
+- Social media links go nowhere (footer)
+- Contact links such as email and phone need relevant actions (footer)
+- Home page search feature needs implementing
+- Paylater response needs coding
+- Multiple orders submitting on refresh
