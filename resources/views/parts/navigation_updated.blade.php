@@ -22,9 +22,24 @@
                         <a class="nav-link" href="/finance">Finance</a>
                     </li>
 
-                    <li class="nav-item">
-                        <a class="nav-link" href="/equipment-finance">Equipment Finance</a>
-                    </li>
+                    <!--<li class="nav-item">-->
+                    <!--    <a class="nav-link" dropdown-bs-toggle data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="/equipment-finance">Equipment Finance</a>-->
+                        
+                    <!--</li>-->
+                    
+                    
+                        
+                       <li class="nav-item dropdown">
+                          <a class="nav-link" class="dropdown-toggle" role="button" data-bs-toggle="dropdown" aria-expanded="false" href="#">
+                            Equipment
+                          </a>
+                          <ul class="dropdown-menu">
+                            <li><a class="dropdown-item" href="/equipment-finance">Equipment finance</a></li>
+                            <li><hr class="dropdown-divider"></li>
+                            <li><a class="dropdown-item" href="/catalogue">Machines</a></li>
+                          </ul>
+                        </li>
+                    
                     
                     <li class="nav-item">
                         <a class="nav-link" href="/faq">FAQ </a>
